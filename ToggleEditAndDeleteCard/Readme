@@ -1,0 +1,2 @@
+For Delete card functionality uncomment below line of code from render method of App.js file
+clickEvent={ ()=> this.deleteEmp(index) } 
