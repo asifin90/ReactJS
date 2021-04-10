@@ -58,7 +58,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>List of Employees</h1>        
-        <button onClick={this.togglePersonsHandler}>Toggle Persons</button>
+        <button onClick={this.togglePersonsHandler}>Toggle Employee</button>
           {emp}
       </div>
     );
